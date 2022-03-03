@@ -1,4 +1,4 @@
-package com.guilherme.diary.dto;
+package com.guilherme.diary.dto.request;
 
 import lombok.*;
 
