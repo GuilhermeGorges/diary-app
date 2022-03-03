@@ -8,7 +8,7 @@ import java.util.Date;
 
 @Data
 @AllArgsConstructor
-public class Message {
+public class Note {
 
     @Id
     private long id;
